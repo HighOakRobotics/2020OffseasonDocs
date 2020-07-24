@@ -295,4 +295,6 @@ defaults:
       type: pages
     values:
       layout: single
+      sidebar:
+        nav: "docs"
       author_profile: false
