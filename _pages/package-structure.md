@@ -10,7 +10,7 @@ One useful way to organize your code is with a subsystem organization — essent
 ![Our sample subsystem organization](subsystem.png)
 
 
-As you can see here, in Drive.java, we are creating a MecanumDrive object, which is our subsystem. Now, we can make use of MecanumDrive.java’s methods, like init(), controller(), getLFrontPower(), getLFrontVelocity(), etc. We also have a similar Lift subsystem, which I later used to create a Lift object in Drive as well. 
+As you can see here, in Drive.java, we are creating a MecanumDrive object, which is our subsystem. Now, we can make use of MecanumDrive.java’s methods, like `init()`, `controller()`, `getLFrontPower()`, `getLFrontVelocity()`, etc. We also have a similar Lift subsystem, which I later used to create a Lift object in Drive as well. 
 
 
 Another useful class to have is a Constants.java class, containing constants that are useful for all classes. 
