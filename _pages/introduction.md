@@ -1,8 +1,8 @@
 ---
-layout: pages
 permalink: /
-title: Our Definition of "Advanced FTC Control System"
 ---
+
+# Our Definition of "Advanced FTC Control System"
 
 Our software development environment and hardware components of a competitive FTC control system consist of the following:
 
