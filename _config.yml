@@ -298,3 +298,4 @@ defaults:
       sidebar:
         nav: "docs"
       author_profile: false
+      classes: wide
