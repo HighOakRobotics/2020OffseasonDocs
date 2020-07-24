@@ -23,7 +23,7 @@ title: Setting Up Git and Github
 * Navigate to an empty folder (this will store your repo)
   * `cd <path to folder>`
 * `git init`
-* `git remote add upstream <FTC repo link>` (at the moment it's https://github.com/FIRST-Tech-Challenge/SkyStone)
+* `git remote add upstream <FTC repo link>` (at the moment it's [https://github.com/FIRST-Tech-Challenge/SkyStone](https://github.com/FIRST-Tech-Challenge/SkyStone))
 * `git pull upstream master`
 * Create an empty GitHub repository from the website interface (do NOT initialize it with a README, LICENSE, or gitignore)
 * `git remote add origin <your own empty repo link>`

@@ -8,7 +8,7 @@ docs:
   - title: Initial Documentation
     children:
       - title: "Introduction"
-        url: /introduction
+        url: /
       - title: "Installing Android Studio"
         url: /android-studio
       - title: "Setting Up Git and Github"
