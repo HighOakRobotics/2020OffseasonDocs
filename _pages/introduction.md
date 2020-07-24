@@ -1,8 +1,6 @@
 ---
-layout: single
+layout: docs
 permalink: /
-sidebar:
-  nav: "docs"
 ---
 
 # Our Definition of "Advanced FTC Control System"
