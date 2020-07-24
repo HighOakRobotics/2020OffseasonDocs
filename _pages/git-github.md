@@ -1,9 +1,7 @@
 ---
-layout: text
-permalink: /git-github/
+permalink: /git-github
+title: Setting Up Git and Github
 ---
-
-# GIT / GITHUB SETUP
 
 ### Download and Install [Git](https://git-scm.com/downloads)
 * Keep everything as default in the installer (if you don’t like Vim as the default editor you can set it to Nano; it will only show up when you resolve merge conflicts in the terminal)   

@@ -1,4 +1,8 @@
-# Wireless Code Updater Setup
+---
+permalink: /wireless-setup
+title: Wireless Code Updater Setup
+---
+
 * Go to File > Settings
 * Go to Tools > External Tools
 * Press the plus sign to add a new external tool.

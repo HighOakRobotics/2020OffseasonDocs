@@ -1,4 +1,7 @@
-# Understanding FTC Control System Hardware
+---
+permalink: /control-system
+title: Understanding FTC Control System Hardware
+---
 
 ### The FTC Control System
 * REV Control System and Expansion Hub

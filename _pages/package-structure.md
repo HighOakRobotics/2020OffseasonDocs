@@ -1,4 +1,7 @@
-# Teamcode Organization
+---
+permalink: /package-structure
+title: Teamcode Organization
+---
 
 ### Subsystem Organization
 One useful way to organize your code is with a subsystem organization — essentially, we are breaking down the robot into respective hardware classes. 
