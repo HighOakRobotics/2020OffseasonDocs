@@ -18,3 +18,5 @@ docs:
         url: /wireless-setup
       - title: "Teamcode Organization"
         url: /package-structure
+      - title: "The FTC Control System"
+        url: /control-system
