@@ -6,7 +6,7 @@ main:
     url: https://jensiecat.wixsite.com/deviation/
 
 docs:
-  - title: Initial Documentation
+  - title: Advanced FTC Control System
     children:
       - title: "Introduction"
         url: /
@@ -20,3 +20,8 @@ docs:
         url: /package-structure
       - title: "The FTC Control System"
         url: /control-system
+  - title: Design with OnShape
+    children:
+      - title: "Coming Soon!"
+        url: "#"
+
