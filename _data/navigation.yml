@@ -22,6 +22,6 @@ docs:
         url: /control-system
   - title: Design with OnShape
     children:
-      - title: "Coming Soon!"
-        url: "#"
+      - title: "Introduction"
+        url: "/onshape-intro"
 
