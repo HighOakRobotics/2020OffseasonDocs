@@ -24,4 +24,12 @@ docs:
     children:
       - title: "Introduction"
         url: "/onshape-intro"
+      - title: "Drivetrain"
+        url: "/os-drivetrain"
+      - title: "Linear Mechanisms"
+        url: "/os-linear"
+      - title: "Intake"
+        url: "/os-intake"
+      - title: "Shooter"
+        url: "/os-shooter"
 
