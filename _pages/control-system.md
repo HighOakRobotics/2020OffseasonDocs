@@ -10,5 +10,10 @@ Camera | Motor/Encoder
 Servo | Sensors (Color, Distance, Limit, Touch)
 Phone | Gamepad
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ### FTC Control System Example - Skystone
 ![FTC Skystone Control System Setup](skystone_system.png)
