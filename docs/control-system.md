@@ -4,12 +4,12 @@ title: Understanding FTC Control System Hardware
 ---
 
 ### The FTC Control System
-| Pt 1      | Pt 2 |
-| ----------- | ----------- |
+| Pt 1                                  | Pt 2                                          |
+|---------------------------------------|-----------------------------------------------|
 | REV Control System/Expansion Hub      | Sensors (Color, Distance, Limit, Touch)       |
-| Battery   | Camera        |
-| Motor/Encoder   | Phone        |
-| Servo   | Gamepad        |
+| Battery                               | Camera                                        |
+| Motor/Encoder                         | Phone                                         |
+| Servo                                 | Gamepad                                       |
 
 ### FTC Control System Example - Skystone
 ![FTC Skystone Control System Setup](skystone_system.png)
