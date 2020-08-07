@@ -11,4 +11,4 @@ build: clean
 	@bundle exec jekyll build --profile
 
 server: clean
-	@bundle exec jekyll server --livereload
+	@bundle exec jekyll server --livereload --port 8082

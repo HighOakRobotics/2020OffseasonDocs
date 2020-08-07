@@ -39,6 +39,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+kramdown:
+  input: GFM
+
 # Sass/SCSS
 sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
