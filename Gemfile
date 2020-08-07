@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gem "jekyll-rtd-theme"
+gem "github-pages", group: :jekyll_plugins
