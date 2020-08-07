@@ -23,5 +23,5 @@ Our software development environment and hardware components of a competitive FT
 
   9. Sensors such as IMU, color, distance and others may or may not be needed.
 
-
+~~~~
 We assume programmers are familiar with Java programming and comfortable with running commands in a terminal.
